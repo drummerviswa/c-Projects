@@ -1,2 +1,2 @@
 # c-Projects
-C projecta
+C projects
